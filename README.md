@@ -1,5 +1,12 @@
 # Pdf-Password-Decrypter
-This is a basic pdf password Decrypter using Tkinter in Python
+Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF files that are password-protected.
+
+# Features
++ Allows users to select a password-protected PDF file to be decrypted.
++ Provides an entry widget for the user to enter the password for the PDF file.
++ Allows users to enter a new name for the decrypted PDF file.
++ Creates a new PDF file that is not password-protected.
++ Allows users to view the decrypted PDF file in the Evince PDF viewer.
 
 # Pre-requisites
 To run this Python program you would need these following packages
@@ -53,3 +60,14 @@ python3 decryper.py
 ```
 
 + Done
+
+# Contributing
+We welcome contributions from the community! We welcome your contributions to improve the project. If you'd like to contribute to Pdf-Password-Decrypter, please read the following guidelines on how to contribute:
++ Fork the repository and create a new branch for your changes.
++ Make your changes to the code.
++ Test your changes thoroughly.
++ Commit your changes with a clear and descriptive message.
++ Push your changes to your fork.
++ Create a pull request and wait for me to verify and then merge it to the main branch.
+
+# THANK YOU COMMUNITY!!!!

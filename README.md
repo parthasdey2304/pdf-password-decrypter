@@ -1,5 +1,5 @@
-# Pdf-Password-Decrypter
-Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF files that are password-protected.
+# Decrypt Your Password Protected pdf files Here
+**Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF files that are password-protected.**
 
 # Features
 + Allows users to select a password-protected PDF file to be decrypted.
@@ -10,9 +10,12 @@ Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF f
 
 # Upcoming featuers
 Some of the upcoming features include:
-+ Editing the pdf directly
-+ Lock the pdf with a new password
++ Editing the pdf directly.
++ Lock the pdf with a new password.
 + Unlocking encrypted pdf files with Brute Force attack.
++ Better UI design.
++ Replace tkinter with Kivy module of python.
++ Switch from PyPDF2 to some other python modules as it is no longer maintained.
 
 # Pre-requisites
 To run this Python program you would need these following packages

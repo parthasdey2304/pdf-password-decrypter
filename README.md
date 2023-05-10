@@ -8,6 +8,12 @@ Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF f
 + Creates a new PDF file that is not password-protected.
 + Allows users to view the decrypted PDF file in the Evince PDF viewer.
 
+# Upcoming featuers
+Some of the upcoming features include:
++ Editing the pdf directly
++ Lock the pdf with a new password
++ Unlocking encrypted pdf files with Brute Force attack.
+
 # Pre-requisites
 To run this Python program you would need these following packages
 + Python(version 3.7 or higher)

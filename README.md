@@ -1,5 +1,5 @@
 # Decrypt Your Password Protected pdf files Here
-**Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF files that are password-protected.**
+**Pdf-Password-Decrypter is a Python application that can be used to decrypt PDF files that are password-protected. This is optimised for Linux with apt**
 
 # Features
 + Allows users to select a password-protected PDF file to be decrypted.
